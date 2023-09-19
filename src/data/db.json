@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "name": "Smart watch",
+      "rating": "* * *",
+      "id": 1,
+      "price": "100",
+      "image": "Images/sw.jpg"
+    },
+    {
+      "name": "Headphone",
+      "rating": "* * * *",
+      "id": 2,
+      "price": "200",
+      "image": "Images/hp.jpg"
+    },
+    {
+      "name": "Fitness Band",
+      "rating": "* * *",
+      "id": 3,
+      "price": "300",
+      "image": "Images/fb.jpg"
+    },
+    {
+      "name": "Bluetooth Speaker",
+      "rating": "* * * * *",
+      "id": 4,
+      "price": "400",
+      "image": "Images/bs.jpg"
+    },
+    {
+      "name": "Smart ring",
+      "rating": "* * *",
+      "id": 5,
+      "price": "500",
+      "image": "Images/sr.jpg"
+    },
+    {
+      "name": "ww",
+      "rating": "ww",
+      "price": "222",
+      "image": "",
+      "id": 6
+    },
+    {
+      "name": "face cam",
+      "rating": "* * *",
+      "price": "122",
+      "image": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "rating": "",
+      "price": "",
+      "image": "",
+      "id": 8
+    },
+    {
+      "name": "qwq",
+      "rating": "444",
+      "price": "222",
+      "image": "",
+      "id": 9
+    },
+    {
+      "name": "wwwwww",
+      "rating": "wwwwww",
+      "price": "wwwwwww",
+      "image": "",
+      "id": 10
+    }
+  ],
+  "cart": [
+    {
+      "name": "Fitness Band",
+      "rating": "* * *",
+      "id": 3,
+      "price": "300",
+      "image": "Images/fb.jpg"
+    },
+    {
+      "name": "Headphone",
+      "rating": "* * * *",
+      "id": 2,
+      "price": "200",
+      "image": "Images/hp.jpg"
+    }
+  ]
+}
